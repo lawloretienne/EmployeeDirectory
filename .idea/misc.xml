@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_error_cloud_120.xml" value="0.145" />
+        <entry key="app/src/main/res/layout/employee_row.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/generic_content_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/generic_empty_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/generic_error_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/generic_loading_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
